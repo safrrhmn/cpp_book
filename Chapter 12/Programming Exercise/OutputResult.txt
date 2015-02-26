@@ -1,0 +1,7200 @@
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer:  
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54301
+Correct Answers: TFFTFFTT TFFTFTFTFTT
+Test Score    : 38/40
+Percentage     : 95%
+Grade          : A
+
+************************************
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54302
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 38/40
+Percentage     : 95%
+Grade          : A
+
+************************************
+Correct Answer  : T
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer:  
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54303
+Correct Answers: FTFTFF TTTFFTFTFTFTT
+Test Score    : 32/40
+Percentage     : 80%
+Grade          : B
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54304
+Correct Answers: TTFTFFT TTFFTFTFTFTT
+Test Score    : 30/40
+Percentage     : 75%
+Grade          : C
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  : F
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54305
+Correct Answers: T TFTFTTTTFFTFTFTFTT
+Test Score    : 26/40
+Percentage     : 65%
+Grade          : D
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54306
+Correct Answers: TF FTTFTTTFFTFTFTFTT
+Test Score    : 24/40
+Percentage     : 60%
+Grade          : D
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54307
+Correct Answers: TFF FFTTTTFFTFTFTFTT
+Test Score    : 24/40
+Percentage     : 60%
+Grade          : D
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54308
+Correct Answers: TFFT TTTTTFFTFTFTFTT
+Test Score    : 24/40
+Percentage     : 60%
+Grade          : D
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54309
+Correct Answers: TFFTFF FFTFFTFTFTFTT
+Test Score    : 24/40
+Percentage     : 60%
+Grade          : D
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54310
+Correct Answers: TFFTFFT FTFFTFTFTFTT
+Test Score    : 24/40
+Percentage     : 60%
+Grade          : D
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54311
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54312
+Correct Answers: TFFTFFT FTFFTFTFTFTT
+Test Score    : 24/40
+Percentage     : 60%
+Grade          : D
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54313
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54314
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54315
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54316
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54317
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54318
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54319
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54320
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54321
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54322
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54323
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54324
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54325
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 22/40
+Percentage     : 55%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54326
+Correct Answers: TFFTTFTT TFTFTFFTTFT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54327
+Correct Answers: TFFTF TTTTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54328
+Correct Answers: TFFTFF TTTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54329
+Correct Answers: TFFTFFT TTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54330
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54331
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54332
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54333
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54334
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54335
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54336
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54337
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54338
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54339
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54340
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54350
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54317
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54318
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54319
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54320
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54321
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54322
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54323
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54324
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54325
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54301
+Correct Answers: TFFTTFTT TFTFTFFTTFT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54302
+Correct Answers: TFFTF TTTTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54303
+Correct Answers: TFFTFF TTTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54304
+Correct Answers: TFFTFFT TTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54305
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54306
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54307
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54308
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54309
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54310
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54311
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54312
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54313
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54314
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54315
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54316
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54317
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54318
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54319
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54320
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54321
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54322
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54323
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54324
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54325
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54301
+Correct Answers: TFFTTFTT TFTFTFFTTFT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54302
+Correct Answers: TFFTF TTTTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54303
+Correct Answers: TFFTFF TTTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54304
+Correct Answers: TFFTFFT TTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54305
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54306
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54307
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54308
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54309
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54310
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54311
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54312
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54313
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54314
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54315
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54316
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54317
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54318
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54319
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54320
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54321
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54322
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54323
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54324
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54325
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54301
+Correct Answers: TFFTTFTT TFTFTFFTTFT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54302
+Correct Answers: TFFTF TTTTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54303
+Correct Answers: TFFTFF TTTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54304
+Correct Answers: TFFTFFT TTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54305
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54306
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54307
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54308
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54309
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54310
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54311
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54312
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54313
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54314
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54315
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54316
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54317
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54318
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54319
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54320
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54321
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54322
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54323
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54324
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54325
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54301
+Correct Answers: TFFTTFTT TFTFTFFTTFT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54302
+Correct Answers: TFFTF TTTTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54303
+Correct Answers: TFFTFF TTTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer:  
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54304
+Correct Answers: TFFTFFT TTFFTFTFTFTT
+Test Score    : 12/40
+Percentage     : 30%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54305
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54306
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54307
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54308
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54309
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54310
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54311
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54312
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54313
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54314
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54315
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54316
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54317
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54318
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54319
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54320
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54321
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54322
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54323
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54324
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : F
+Student's Answer: F
+Correct Answer  : T
+Student's Answer: T
+Correct Answer  :  
+Student's Answer: F
+Correct Answer  :  
+Student's Answer: T
+Correct Answer  : T
+Student's Answer: T
+
+Student ID    : ABC54150
+Correct Answers: TFFTFFTTTTFFTFTFTFTT
+Test Score    : 10/40
+Percentage     : 25%
+Grade          : F
+
+************************************
